@@ -6,7 +6,6 @@ This script implements a task management system that allows users to register ne
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 
 ## Installation
